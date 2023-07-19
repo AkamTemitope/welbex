@@ -1,4 +1,3 @@
-/* eslint-disable no-irregular-whitespace */
 const Hero = () => {
   return (
     <section className="w-hero">
