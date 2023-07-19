@@ -171,6 +171,7 @@
     font-size: 48px;
     margin-bottom: 16px;
     font-weight: normal;
+    line-height: normal;
 
     span {
       font-weight: 900;
@@ -194,11 +195,13 @@
 
   .w-hero-right-text {
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 500;
 
     span {
-      font-weight: 600;
-      line-height: 1.5rem;
+      font-weight: 700;
+      line-height: normal;
+      letter-spacing: 0.9px;
+      font-style: normal;
       text-transform: uppercase;
     }
   }
